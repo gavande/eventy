@@ -1,5 +1,5 @@
 {
-    "name": "tormjens/eventy",
+    "name": "gavande/eventy",
     "description": "The WordPress filter/action system in Laravel",
     "keywords": ["laravel", "wordpress", "action", "events", "event", "filter", "action", "filters", "actions", "hook", "hooks"],
     "homepage": "https://github.com/tormjens/eventy",
