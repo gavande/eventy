@@ -14,7 +14,7 @@ Filters are made to modify entities. They always return some kind of value. By d
 1. Install using Composer
 
 ```
-composer require tormjens/eventy
+composer require gavande/eventy
 ```
 
 If you're using Laravel 5.5 you can start using the package at this point. Eventy is auto-discovered by the Laravel framework.
